@@ -55,7 +55,7 @@ The schema uses database constraints to enforce data consistency, including:
 - valid vehicle production years
 - valid rental status values
 - valid payment methods
-- return dates that cannot precede rental dates
+- planned return dates that cannot precede rental dates
 - insurance expiration dates later than their start dates
 
 ## Reporting View
